@@ -3,9 +3,8 @@
 
 # In[1]:
 
-name = "mydreamname"
 
-name = "anna kate"
+name = "anna"
 
 
 # In[2]:
@@ -30,7 +29,7 @@ print(age)
 
 
 print("my name is")
-print("this is a  change to my code")
+
 
 # In[6]:
 
