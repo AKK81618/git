@@ -3,8 +3,9 @@
 
 # In[1]:
 
+name = "mydreamname"
 
-name = "anna"
+name = "anna kate"
 
 
 # In[2]:
